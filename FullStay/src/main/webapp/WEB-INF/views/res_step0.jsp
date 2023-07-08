@@ -10,8 +10,8 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
 <jsp:include page="include/header.jsp" />
-		
-	<div class="topArea">
+<div style="margin:0 20%; ">
+	<div class="topArea"  style="width:100%;">
 		<div class="topInner">
 			<h2 class="titDep1">예약하기</h2>
 		</div>
@@ -27,7 +27,7 @@
 		<input type="hidden" name="resInYoil" id="resInYoil" value="">
 		<input type="hidden" name="resOutYoil" id="resOutYoil" value=""> --%>
 
-			<div class="inner">
+			<div class="inner" style="width:100%;">
 				<ul class="dateSelect">		
 					<li>
 						<strong class="listTit">객실정보 및 요금</strong>	
@@ -105,7 +105,7 @@
 						</div>
 					</li> --%>
 				</ul>
-				<div class="res_submit_area">
+				<div class="res_submit_area" style="margin:0 20%; ">
 					<a href="https://map.naver.com/v5/search/%ED%92%80%EC%8A%A4%ED%85%8C%EC%9D%B4%20%EB%B3%84%EB%82%B4/place/1544365898?c=15,0,0,0,dh&isCorrectAnswer=true">
 					<input type="submit" class="res_submit" value="예약 하기">
 					</a>
@@ -113,7 +113,8 @@
 				
 			</div>
 		
-	</form>
+	</div>
+	
 	<script type="text/javascript" src="js/cal.js"></script>
 	<script type="text/javascript" src="js/res_step0.js"></script>
 
