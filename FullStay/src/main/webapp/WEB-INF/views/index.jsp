@@ -31,19 +31,57 @@ function Mobile() {return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Op
 		<div id="index_web" class="section_menu">
 			<div class="slide">
 				<div class="fp_bg_1"></div>
-				<div class="slide_box">
-					<div class="cont">
-						<strong class="tit">FULL STAY</strong>
-						<strong class="tit">Kids Pool Party Room</strong>
-						<p class="txt01">
-							아이들을 떠올리면 생각나는 발랄하고 쾌활한 느낌을 인테리어에 적용하여 컬러풀한 풀스테이만의 공간이 탄생되었습니다.
-							<br>
-							키즈풀+파티룸을 접목하여 별도의 파티 공간을 제공합니다. 소중한 하루를 특별한 하루로 만들어가세요!
-						</p>						
-					</div>
-				</div>
+						  	<img class="slide_box" src="images/main_1.jpg">
 			</div>
-			<div class="slide"> 
+			<div class="slide">
+				<div class="fp_bg_2"></div>
+						  	<img class="slide_box" src="images/main_2.jpg">
+			</div>
+			<div class="slide">
+				<div class="fp_bg_3"></div>
+						  	<img class="slide_box" src="images/main_3.jpg">
+			</div>
+			<div class="slide">
+				<div class="fp_bg_4"></div>
+						  	<img class="slide_box" src="images/main_4.jpg">
+			</div>
+			<div class="slide">
+				<div class="fp_bg_5"></div>
+						  	<img class="slide_box" src="images/main_5.jpg">
+			</div>
+			<div class="slide">
+				<div class="fp_bg_6"></div>
+						  	<img class="slide_box" src="images/main_6.jpg">
+			</div>
+			<div class="slide">
+				<div class="fp_bg_7"></div>
+						  	<img class="slide_box" src="images/main_7.jpg">
+			</div>
+			<div class="slide">
+				<div class="fp_bg_8"></div>
+						  	<img class="slide_box" src="images/main_8.jpg">
+			</div>
+			<div class="slide">
+				<div class="fp_bg_9"></div>
+						  	<img class="slide_box" src="images/main_9.jpg">
+			</div>
+			<div class="slide">
+				<div class="fp_bg_10"></div>
+						  	<img class="slide_box" src="images/main_10.jpg">
+			</div>
+			<div class="slide">
+				<div class="fp_bg_11"></div>
+						  	<img class="slide_box" src="images/main_11.jpg">
+			</div>
+			<div class="slide">
+				<div class="fp_bg_12"></div>
+						  	<img class="slide_box" src="images/main_12.jpg">
+			</div>
+			<div class="slide">
+				<div class="fp_bg_13"></div>
+						  	<img class="slide_box" src="images/main_13.jpg">
+			</div>
+			<!-- <div class="slide"> 
 				<div class="fp_bg_2"></div>
 				<div class="slide_box">
 					<div class="cont cont2">
@@ -82,9 +120,12 @@ function Mobile() {return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Op
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
-		<div id="mobile_web" class="section_menu_mobile">
+		
+		<!-- 모바일부분 추가 -->
+		
+		<!-- <div id="mobile_web" class="section_menu_mobile">
 			<div class="slide">
 				<div class="fp_bg_1"></div>
 				<div class="slide_box_mobile">
@@ -139,7 +180,7 @@ function Mobile() {return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Op
 					</div>
 				</div>
 			</div>
-		</div>	
+		</div>	 -->
 		</div>
 		<div class="section">
 		<div id="indexweb" style="background : white">
