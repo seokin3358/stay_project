@@ -57,7 +57,9 @@
     <article class="area">
     <div class="left">
     <h4 class="sub_tit">주소</h4>
-    <p class="area_txt">경기도 남양주시 별내중앙로 34, 602-1호</p>
+    <p class="area_txt">경기도 남양주시 별내중앙로 34,</p>
+    <p> 로뎀타워 602-1호 (별내 이마트 앞 우리은행건물)</p> 
+    <p>별내역 2번 출구에서 572m</p>
     </div>
     </article>
     <br>
