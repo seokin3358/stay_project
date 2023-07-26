@@ -15,7 +15,7 @@
     	<title>개인정보 처리방침 | Full Stay 별내</title>
 </head>
 <body>
-<div style="margin:0 20%; ">
+<div style="margin:0 5%; ">
 <article id="ctt" class="ctt_privacy">
 <br><br><br>
     <header style="text-align: center;">

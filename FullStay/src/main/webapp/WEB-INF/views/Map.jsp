@@ -38,7 +38,7 @@
     </script>
 </head>
 <body style="height:100%">
-<div style="margin:0 20%;">
+<div style="margin:0 5%;">
 <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
 <article id="ctt" class="ctt_privacy">
 <br><br><br>
@@ -55,12 +55,18 @@
     
     <br><br>
     <article class="area">
-    <div class="left">
-    <h4 class="sub_tit">주소</h4>
-    <p class="area_txt">경기도 남양주시 별내중앙로 34,</p>
-    <p> 로뎀타워 602-1호 (별내 이마트 앞 우리은행건물)</p> 
-    <p>별내역 2번 출구에서 572m</p>
-    </div>
+	    <div class="left">
+		    <h4 class="sub_tit">주소</h4>
+		    <p class="area_txt">경기도 남양주시 별내중앙로 34,</p>
+		    <p> 로뎀타워 602-1호 (별내 이마트 앞 우리은행건물)</p> 
+		    <p>별내역 2번 출구에서 572m</p>
+	    </div>
+   		<div class="right">
+			<h4 class="sub_tit">주차안내</h4>
+			<p class="area_txt">한팀당 세대까지 무료주차 가능.</p>
+			<p><span>(퇴실 전, 차량번호는 관리자에게 문자로 보내주세요.)</span></p>
+			
+		</div>
     </article>
     <br>
     

@@ -78,10 +78,10 @@ header .logo a {
 .hotel_logo{
 	align-self: center;
     position: absolute;
-    left: 50%;
+    left: 42%;
     margin-left: -70px;
-    margin-top: 26px;
     z-index: 3;
+    text-align:center;
 }
 
 .headerBox{
@@ -172,7 +172,6 @@ a {
 
 .name {
   color: #989442;
-  margin-right: 80px;
   float: left;
   z-index: 3;
   font-size: 16px;

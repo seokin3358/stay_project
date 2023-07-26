@@ -8,7 +8,7 @@ body,p,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,table,form,fieldset,legend,input,text
 td,th{margin:0;padding:0;word-break:keep-all;word-wrap:break-word}
 body,input,textarea,select,button,table,th,td,pre{color:#000;font-family:notokrL, gothamL, playfair;font-weight:400;font-size:18px;line-height:1.8}
 h1,h2,h3,h4,h5,h6{font-weight:normal;line-height:1.2}
-img,fieldset,iframe{border:0;vertical-align:top}
+/* img,fieldset,iframe{border:0;vertical-align:top} */
 textarea{resize:none;font-size:16px}
 ul,ol{margin:0;padding:0;list-style:none}
 ul:after,ol:after{content:'';display:block;clear:both}

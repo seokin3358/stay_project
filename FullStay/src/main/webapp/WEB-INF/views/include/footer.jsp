@@ -4,10 +4,19 @@
 <meta charset="UTF-8">
 <link rel="stylesheet" href="css/FooterStyle.css">
 <script src="https://kit.fontawesome.com/57a8fee989.js" crossorigin="anonymous"></script>
+<script>
+
+function Mobile() {return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);}
+
+</script>
+
 </head>
     <footer>
-        <div class="site_logo">
-            <a href="<%=request.getContextPath() %>/index.do" class="sitename">Full Stay</a>
+        <div id="web_footer" class="site_logo">
+            <a href="<%=request.getContextPath() %>/index.do" class="sitename">Full Stay kids pool party room<br>Byeollae</a>            
+        </div>
+        <div id="mobile_footer" class="site_logo" >
+            <a href="<%=request.getContextPath() %>/index.do" class="sitename"  style="line-height:normal; padding:0; font-size:20px;">Full Stay kids pool party room<br>Byeollae</a>            
         </div>
         
         <div class="footer">          
@@ -29,3 +38,10 @@
             <a href=""><i class="fab fa-youtube"></i></a>     -->     
         </div>
     </footer>
+<script>
+if(Mobile()){
+	$("#web_footer").hide();
+}else{
+	$("#mobile_footer").hide();
+}
+</script>

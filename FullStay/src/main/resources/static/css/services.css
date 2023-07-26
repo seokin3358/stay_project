@@ -709,11 +709,11 @@ li {list-style:none;}
 .page_tit {text-align: center; font-size: 30px; color: #33271C; margin-bottom: 30px;}
 .page_txt {text-align: center; font-size: 20px; color: #808080;}
 
-.sub_bnr {height: 800px; background: center / cover no-repeat url("../img/sub_bg1.jpg"); display: flex; justify-content: center; align-items: center; position: relative;}
+.sub_bnr {height: 800px; display: flex; justify-content: center; align-items: center; position: relative;}
 .sub_bg1,
 .sub_bg2,
 .sub_bg3,
-.sub_bg4 {background: center / cover no-repeat url("../img/sub_bg1.jpg");}
+.sub_bg4
 
 .sub_bnr .sb_txt {text-align: center;}
 .sub_bnr .sub_menu1 {font-size: 24px; color: #b9905b;}

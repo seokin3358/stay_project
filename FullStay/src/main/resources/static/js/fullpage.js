@@ -1047,7 +1047,7 @@
         * Creates the control arrows for the given section
         */
         function createSlideArrows(section){
-            var arrows = [createElementFromHTML('<div class="' + SLIDES_ARROW_PREV + '"></div>'), createElementFromHTML('<div class="' + SLIDES_ARROW_NEXT + '"></div>')];
+            var arrows = [createElementFromHTML('<div class="' + SLIDES_ARROW_PREV + '"></div>'), createElementFromHTML('<div id="next_button" class="' + SLIDES_ARROW_NEXT + '"></div>')];
             after($(SLIDES_WRAPPER_SEL, section)[0], arrows);
 
             if(options.controlArrowColor !== '#fff'){

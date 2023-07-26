@@ -27,6 +27,9 @@ public class FullpartController{
 	  @RequestMapping(value="/res.do")
 	  public String res() { return "res_step0"; }
 	 	
+	  @RequestMapping(value="/information.do") 
+	  public String information() { return "information"; }
+	  
 	
 	
 }

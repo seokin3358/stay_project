@@ -32,8 +32,11 @@ function Mobile() {return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Op
 </head>
 <body>
     <header class="headerBox">
-        <div class="hotel_logo">
-            <a href="<%=request.getContextPath() %>/index.do" class="sitename">Full Stay 별내</a>
+        <div id="web_logo" class="hotel_logo">
+            <a href="<%=request.getContextPath() %>/index.do" class="sitename">Full Stay kids pool party room<br>Byeollae</a>
+        </div>
+        <div id="mobile_logo" class="hotel_logo" style="line-height:normal;">
+            <a href="<%=request.getContextPath() %>/index.do" class="sitename">Full Stay kids pool party room<br>Byeollae</a>
         </div>
 
         <div id="mobile" class="top-bar text-align-center line-height-0-ch-only">
@@ -42,7 +45,7 @@ function Mobile() {return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Op
 						<ul class="row">
 							<li class="name">Menu
 								<ul class="innerMenu">
-								<li><a href="<%=request.getContextPath() %>/information.do">풀파티룸 소개</a></li>
+								<li><a href="<%=request.getContextPath() %>/information.do">풀스테이 소개</a></li>
 	                			<li><a href="<%=request.getContextPath() %>/Map.do">오시는길</a></li>
 	                			<!-- <li><a href="https://map.naver.com/v5/entry/place/1369943741?lng=126.6225143&lat=37.6445103&placePath=%2Fhome%3Fentry=plt&c=15,0,0,0,dh">예약하기</a></li> -->
 								<li><a href="<%=request.getContextPath() %>/booking.do">예약하기</a></li>
@@ -71,8 +74,10 @@ function Mobile() {return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Op
     </header>
 <script>
 if(Mobile()){
+	$("#web_logo").hide();
 	$("#web").hide();
 }else{
+	$("#mobile_logo").hide();
 	$("#mobile").hide();
 }
 </script>

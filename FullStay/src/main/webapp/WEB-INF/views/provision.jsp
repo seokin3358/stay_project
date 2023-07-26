@@ -15,7 +15,7 @@
 <title>서비스 이용약관 | Full Stay 별내</title>
 </head>
 <body>
-<div style="margin:0 20%;">
+<div style="margin:0 5%;">
 <article id="ctt" class="ctt_provision">
 <br><br><br>
     <header style="text-align: center;">
