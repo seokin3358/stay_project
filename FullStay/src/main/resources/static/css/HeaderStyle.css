@@ -78,10 +78,11 @@ header .logo a {
 .hotel_logo{
 	align-self: center;
     position: absolute;
-    left: 42%;
+    left: 50%;
     margin-left: -70px;
     z-index: 3;
     text-align:center;
+    margin-top:1.5%;
 }
 
 .headerBox{
@@ -91,7 +92,7 @@ header .logo a {
     left: 0;
     right: 0;
     z-index: 3;
-    background-color: rgba( 255, 255, 255, 0.6 );
+    background-color: rgba( 255, 255, 255 );
 }
 
 /* 메뉴바 디자인 */

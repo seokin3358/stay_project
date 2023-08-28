@@ -13,10 +13,12 @@ function Mobile() {return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Op
 </head>
     <footer>
         <div id="web_footer" class="site_logo">
-            <a href="<%=request.getContextPath() %>/index.do" class="sitename">Full Stay kids pool party room<br>Byeollae</a>            
+            <a href="<%=request.getContextPath() %>/index.do" class="sitename">풀스테이 별내점</a>            
         </div>
-        <div id="mobile_footer" class="site_logo" >
-            <a href="<%=request.getContextPath() %>/index.do" class="sitename"  style="line-height:normal; padding:0; font-size:20px;">Full Stay kids pool party room<br>Byeollae</a>            
+        <div id="mobile_footer" class="site_logo" style="margin-top:5%; align-items:flex-start;" >
+            <a style="padding:10px;" href="<%=request.getContextPath() %>/index.do" class="sitename" >
+            <img style="width:100%;"  src="images/logo.jpg">
+            </a>            
         </div>
         
         <div class="footer">          

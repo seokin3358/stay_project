@@ -33,10 +33,10 @@ function Mobile() {return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Op
 <body>
     <header class="headerBox">
         <div id="web_logo" class="hotel_logo">
-            <a href="<%=request.getContextPath() %>/index.do" class="sitename">Full Stay kids pool party room<br>Byeollae</a>
+            <a href="<%=request.getContextPath() %>/index.do" class="sitename">풀스테이 별내점</a>
         </div>
-        <div id="mobile_logo" class="hotel_logo" style="line-height:normal;">
-            <a href="<%=request.getContextPath() %>/index.do" class="sitename">Full Stay kids pool party room<br>Byeollae</a>
+        <div id="mobile_logo" class="hotel_logo" style="line-height:normal; margin-top:7%;">
+            <a href="<%=request.getContextPath() %>/index.do" class="sitename">풀스테이 별내점</a>
         </div>
 
         <div id="mobile" class="top-bar text-align-center line-height-0-ch-only">

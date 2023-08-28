@@ -22,11 +22,11 @@ function Mobile() {return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Op
 	<jsp:include page="include/header.jsp" />
     	
     <div id="fullpage">
-    	<div class="section" style="-webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
+    	<!-- <div class="section" style="-webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
  		<video id=“vid” muted autoplay playsinline loop data-keepplaying style="position: fixed; right: 0; bottom: 0; min-width: 100%; min-height: 100%; width: auto; height: auto;">
         <source src="file/network.mp4" type="video/mp4">        
       </video>  
-      </div>
+      </div> -->
       <div class="section">
       
 		<div id="index_web" class="section_menu">

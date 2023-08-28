@@ -23,116 +23,83 @@ function Mobile() {return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Op
 <div id="fullpage">
 	 <div class="section">
 		<div id="index_web" class="section_menu">
-			<div class="slide" style=" background-image: url(images/main_1_blur.jpg); background-size: cover;">
+			<div class="slide">
 				<div class="fp_bg_1" ></div>
 						  	<img class="slide_box" src="images/main_1.jpg">
-						  	<p style="text-align:center; color:red;">123123</p>
-						  	<p>123123</p>
-						  	<p>123123</p>
+						  	<p style="text-align:center; margin-top:2%;">플레이룸</p>
+						  	<p style="text-align:center; margin-top:0.5%;">풀스테이만의 색감으로 아이들의 창의력과 즐거운 시간을 보낼수있도록 다양한 장난감이 준비되어있습니다.</p>
 			</div>
-			<div class="slide" style="background-image: url(images/main_2_blur.jpg); background-size: cover;">
+			<div class="slide">
 				<div class="fp_bg_2"></div>
 						  	<img class="slide_box" src="images/main_2.jpg">
+						  	<p style="text-align:center; margin-top:2%;">파티룸</p>
+						  	<p style="text-align:center; margin-top:0.5%;">파티룸이용시 다양한 동영상 및 음악을 즐길수있으며, 각양각색의 컨셉으로 파티룸을 즐길수 있습니다.</p>
 			</div>
-			<div class="slide" style="background-image: url(images/main_3_blur.jpg); background-size: cover;">
+			<div class="slide">
 				<div class="fp_bg_3"></div>
 						  	<img class="slide_box" src="images/main_3.jpg">
+						  	<p style="text-align:center; margin-top:2%;">수영장</p>
+						  	<p style="text-align:center; margin-top:0.5%;">사계절 따뜻한 온수풀로 아이들의 귀여운 물놀이공간입니다.</p>
+						  	<p style="text-align:center; margin-top:0.5%;">수영장은 통유리로 아이들이 노는모습을 한눈에 볼수있습니다.</p>
 			</div>
-			<div class="slide" style="background-image: url(images/main_4_blur.jpg); background-size: cover;">
+			<div class="slide">
 				<div class="fp_bg_4"></div>
 						  	<img class="slide_box" src="images/main_4.jpg">
+						  	<p style="text-align:center; margin-top:2%;">샤워실</p>
+						  	<p style="text-align:center; margin-top:0.5%;">아이들은 물론 어른들까지 샤워할수있는 샤워공간과 샤워용품 및 탈수기가 구비되어있습니다.</p>
 			</div>
-			<div class="slide" style="background-image: url(images/main_5_blur.jpg); background-size: cover;">
+			<div class="slide">
 				<div class="fp_bg_5"></div>
 						  	<img class="slide_box" src="images/main_5.jpg">
+						  	<p style="text-align:center; margin-top:2%;">파우더룸</p>
+						  	<p style="text-align:center; margin-top:0.5%;">하나만으로도 충분한 큰 수건과 기저귀갈이대, 드라이기등이 구비되어있습니다.</p>
 			</div>
-			<div class="slide" style="background-image: url(images/main_6_blur.jpg); background-size: cover;">
+			<div class="slide">
 				<div class="fp_bg_6"></div>
 						  	<img class="slide_box" src="images/main_6.jpg">
-			</div>
-			<div class="slide" style="background-image: url(images/main_7_blur.jpg); background-size: cover;">
-				<div class="fp_bg_7"></div>
-						  	<img class="slide_box" src="images/main_7.jpg">
-			</div>
-			<div class="slide" style="background-image: url(images/main_8_blur.jpg); background-size: cover;">
-				<div class="fp_bg_8"></div>
-						  	<img class="slide_box" src="images/main_8.jpg">
-			</div>
-			<div class="slide" style="background-image: url(images/main_9_blur.jpg); background-size: cover;">
-				<div class="fp_bg_9"></div>
-						  	<img class="slide_box" src="images/main_9.jpg">
-			</div>
-			<div class="slide" style="background-image: url(images/main_10_blur.jpg); background-size: cover;">
-				<div class="fp_bg_10"></div>
-						  	<img class="slide_box" src="images/main_10.jpg">
-			</div>
-			<div class="slide" style="background-image: url(images/main_11_blur.jpg); background-size: cover;">
-				<div class="fp_bg_11"></div>
-						  	<img class="slide_box" src="images/main_11.jpg">
-			</div>
-			<div class="slide" style="background-image: url(images/main_12_blur.jpg); background-size: cover;">
-				<div class="fp_bg_12"></div>
-						  	<img class="slide_box" src="images/main_12.jpg">
-			</div>
-			<div class="slide" style="background-image: url(images/main_13_blur.jpg); background-size: cover;">
-				<div class="fp_bg_13"></div>
-						  	<img class="slide_box" src="images/main_13.jpg">
+						  	<p style="text-align:center; margin-top:2%;">주방</p>
+						  	<p style="text-align:center; margin-top:0.5%;">아이와 어른들의 다양한 식기와 캡슐 커피머신, 전자렌지 냉장고등이 구비되어있습니다.</p>
 			</div>
 			</div>
 			<!-- 모바일부분 추가 -->
 		
 		<div id="mobile_web" class="section_menu_mobile">
-			<div class="slide" style="background-image: url(images/main_1_blur.jpg); background-size: cover;">
+			<div class="slide">
 				<div class="fp_bg_1" ></div>
-						  	<img class="slide_box_mobile" src="images/main_1.jpg">
+						  	<img class="slide_box" src="images/main_1.jpg">
+						  	<p style="text-align:center; margin-top:2%;">플레이룸</p>
+						  	<p style="text-align:center; margin-top:0.5%;">풀스테이만의 색감으로 아이들의 창의력과 즐거운 시간을 보낼수있도록 다양한 장난감이 준비되어있습니다.</p>
 			</div>
-			<div class="slide" style="background-image: url(images/main_2_blur.jpg); background-size: cover;">
+			<div class="slide">
 				<div class="fp_bg_2"></div>
-						  	<img class="slide_box_mobile" src="images/main_2.jpg">
+						  	<img class="slide_box" src="images/main_2.jpg">
+						  	<p style="text-align:center; margin-top:2%;">파티룸</p>
+						  	<p style="text-align:center; margin-top:0.5%;">파티룸이용시 다양한 동영상 및 음악을 즐길수있으며, 각양각색의 컨셉으로 파티룸을 즐길수 있습니다.</p>
 			</div>
-			<div class="slide" style="background-image: url(images/main_3_blur.jpg); background-size: cover;">
+			<div class="slide">
 				<div class="fp_bg_3"></div>
-						  	<img class="slide_box_mobile" src="images/main_3.jpg">
+						  	<img class="slide_box" src="images/main_3.jpg">
+						  	<p style="text-align:center; margin-top:2%;">수영장</p>
+						  	<p style="text-align:center; margin-top:0.5%;">사계절 따뜻한 온수풀로 아이들의 귀여운 물놀이공간입니다.</p>
+						  	<p style="text-align:center; margin-top:0.5%;">수영장은 통유리로 아이들이 노는모습을 한눈에 볼수있습니다.</p>
 			</div>
-			<div class="slide" style="background-image: url(images/main_4_blur.jpg); background-size: cover;">
+			<div class="slide">
 				<div class="fp_bg_4"></div>
-						  	<img class="slide_box_mobile" src="images/main_4.jpg">
+						  	<img class="slide_box" src="images/main_4.jpg">
+						  	<p style="text-align:center; margin-top:2%;">샤워실</p>
+						  	<p style="text-align:center; margin-top:0.5%;">아이들은 물론 어른들까지 샤워할수있는 샤워공간과 샤워용품 및 탈수기가 구비되어있습니다.</p>
 			</div>
-			<div class="slide" style="background-image: url(images/main_5_blur.jpg); background-size: cover;">
+			<div class="slide">
 				<div class="fp_bg_5"></div>
-						  	<img class="slide_box_mobile" src="images/main_5.jpg">
+						  	<img class="slide_box" src="images/main_5.jpg">
+						  	<p style="text-align:center; margin-top:2%;">파우더룸</p>
+						  	<p style="text-align:center; margin-top:0.5%;">하나만으로도 충분한 큰 수건과 기저귀갈이대, 드라이기등이 구비되어있습니다.</p>
 			</div>
-			<div class="slide" style="background-image: url(images/main_6_blur.jpg); background-size: cover;">
+			<div class="slide">
 				<div class="fp_bg_6"></div>
-						  	<img class="slide_box_mobile" src="images/main_6.jpg">
-			</div>
-			<div class="slide" style="background-image: url(images/main_7_blur.jpg); background-size: cover;">
-				<div class="fp_bg_7"></div>
-						  	<img class="slide_box_mobile" src="images/main_7.jpg">
-			</div>
-			<div class="slide" style="background-image: url(images/main_8_blur.jpg); background-size: cover;">
-				<div class="fp_bg_8"></div>
-						  	<img class="slide_box_mobile" src="images/main_8.jpg">
-			</div>
-			<div class="slide" style="background-image: url(images/main_9_blur.jpg); background-size: cover;">
-				<div class="fp_bg_9"></div>
-						  	<img class="slide_box_mobile" src="images/main_9.jpg">
-			</div>
-			<div class="slide" style="background-image: url(images/main_10_blur.jpg); background-size: cover;">
-				<div class="fp_bg_10"></div>
-						  	<img class="slide_box_mobile" src="images/main_10.jpg">
-			</div>
-			<div class="slide" style="background-image: url(images/main_11_blur.jpg); background-size: cover;">
-				<div class="fp_bg_11"></div>
-						  	<img class="slide_box_mobile" src="images/main_11.jpg">
-			</div>
-			<div class="slide" style="background-image: url(images/main_12_blur.jpg); background-size: cover;">
-				<div class="fp_bg_12"></div>
-						  	<img class="slide_box_mobile" src="images/main_12.jpg">
-			</div>
-			<div class="slide" style="background-image: url(images/main_13_blur.jpg); background-size: cover;">
-				<div class="fp_bg_13"></div>
-						  	<img class="slide_box_mobile" src="images/main_13.jpg">
+						  	<img class="slide_box" src="images/main_6.jpg">
+						  	<p style="text-align:center; margin-top:2%;">주방</p>
+						  	<p style="text-align:center; margin-top:0.5%;">아이와 어른들의 다양한 식기와 캡슐 커피머신, 전자렌지 냉장고등이 구비되어있습니다.</p>
 			</div>
 		</div>	
 		</div>	
