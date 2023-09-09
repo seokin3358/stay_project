@@ -63,8 +63,8 @@
 	    </div>
    		<div class="right">
 			<h4 class="sub_tit">주차안내</h4>
-			<p class="area_txt">한팀당 세대까지 무료주차 가능.</p>
-			<p><span>(퇴실 전, 차량번호는 관리자에게 문자로 보내주세요.)</span></p>
+			<p class="area_txt">로뎀타워 지하 주차장 이용</p>
+			<p><span>한팀당 세대까지 무료주차 가능.</span></p>
 			
 		</div>
     </article>

@@ -1020,7 +1020,7 @@ li {list-style:none;}
 	.sub_bnr .sub_menu2 {font-size: 30px;}
 	.room_img .rmimg_swiper {height: 500px;}
 	.area {flex-direction: column;}
-	.area .left {margin-bottom: 100px;}
+	.area .left {margin-bottom: 50px;}
 	.area .left,
 	.area .right,
 	.bk_frm,

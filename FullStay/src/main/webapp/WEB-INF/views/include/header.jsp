@@ -4,7 +4,7 @@
 <!-- 모바일에서 화면배율을 디바이스 크기 기준으로 설정 -->
 <!-- 이게 안되면 pc에서의 100px과 모바일에서의 100px이 디바이스 성능에 따라 달라집니다. -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" href="images/favicon.png">
+<link rel="icon" href="images/logo.jpg">
 <link rel="stylesheet" href="css/CommonStyle.css">
 <link rel="stylesheet" href="css/HeaderStyle.css">
 <link rel="stylesheet" href="css/FooterStyle.css">
@@ -33,9 +33,9 @@ function Mobile() {return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Op
 <body>
     <header class="headerBox">
         <div id="web_logo" class="hotel_logo">
-            <a href="<%=request.getContextPath() %>/index.do" class="sitename">풀스테이 별내점</a>
+            <a href="<%=request.getContextPath() %>/index.do" class="sitename" style="font-size: 29px;">풀스테이 별내점</a>
         </div>
-        <div id="mobile_logo" class="hotel_logo" style="line-height:normal; margin-top:7%;">
+        <div id="mobile_logo" class="hotel_logo" style="line-height:normal; left:44%; margin-top:7%;">
             <a href="<%=request.getContextPath() %>/index.do" class="sitename">풀스테이 별내점</a>
         </div>
 

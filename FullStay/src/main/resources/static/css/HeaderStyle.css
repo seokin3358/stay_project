@@ -78,11 +78,11 @@ header .logo a {
 .hotel_logo{
 	align-self: center;
     position: absolute;
-    left: 50%;
+    left: 48%;
     margin-left: -70px;
     z-index: 3;
     text-align:center;
-    margin-top:1.5%;
+    margin-top:1%;
 }
 
 .headerBox{
